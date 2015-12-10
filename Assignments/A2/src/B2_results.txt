@@ -1,0 +1,245 @@
+DFS Results:
+Ken Pu
+Andrew Hogue
+Brandon J. Drenikow
+Christopher Zerebeck
+Daniel S. Buckstein
+Kenneth Finney
+Matthew R. Stephan
+Saad R. Khattak
+James S. Robb
+Pejman Mirza-Babaei
+Lennart Nacke
+Stephen Rose
+Timothy Claydon
+Vera Barton
+Carolyn McGregor
+Jaroslaw Szlichta
+Randy J. Fortier
+Faisal Qureshi
+Jeremy Bradbury
+John Rowcroft
+Mehrdad Tirandazian
+Danny Papagiannis
+Emily Flynn-Jones
+John Daniel
+Jordan Harel
+Annmarie Barnes
+Adam Ellis
+Abbee Corb
+James Walsh
+Amir Mostaghim
+Christopher O'Connor
+Arshia U. Zaidi
+Amanda Couture-Carro
+Liqun Cao
+Karla Dhungana-Sainj
+Nicole M. Myers
+Olga Marques
+Barbara Perry
+Bruce Curran
+Daved Muttart
+Rachel Ariss
+Jen Rinaldi
+Marie L. Polgar-Matt
+Monika Korzun
+Karim Remtulla
+Shahid Alvi
+Hannah Scott
+Amanda Robinson
+Antonie Scholtz
+Amanda J. Wendelgass
+Amrinder S. Brar
+Iain McPherson
+Kristen Boujos
+Dale Shin
+Andrea Braithwaite
+Jonathan Obar
+Ganaele Langlois
+Tanner Mirrlees
+Gary Genosko
+Lisa Tomlinson
+Ronn Young
+Amy Leach
+Fiore Sicoly
+Caroline Barakat-Had
+Clemon George
+Emma Bartfay
+Naomi Cahill
+Robert Balogh
+Lisa Fiksenbaum
+Manon Lemonde
+Charissa Cordon
+Deborah Devitt
+Simonne Simon
+Yvette Dalrymple
+Kathy Lavis
+Arlene B. De La Roch
+Dana Chorney
+Angela Davis
+Elita Partosoedarso
+Jason Brown
+Otto Sanchez
+Donna Smeeton
+Helene-Marie Gouldin
+Angelo DiNardo
+Sue O'Dwyer
+Connie Thurber
+John Samis
+Evelyn Moreau
+Grant Johnson
+Milly Ryan-Harshman
+Andrea L. Miller
+Christina R. Vaillan
+JoAnne Arcand
+Kerry Johnson
+Brenda Gamble
+John-Paul Tzountzour
+Kathleen Smith
+Paul Yielder
+Bernadette Murphy
+Ian P. Barker
+Michael Holmes
+Ryan Foley
+Michael Williams-Bel
+Shilpa Dogra
+Nicole Campbell
+Dimitrios Graikinis
+Kirk Hillsley
+Annette Tavares
+Mary Olaveson
+Douglas Holdway
+Andrea Kirkwood
+Cecilia Hageman
+Dario T. Bonetta
+George Stamatiou
+Janice Strap
+Ali Azizi
+Jason Chung
+Julia Green-Johnson
+Jean-Paul Desaulnier
+Jan Matejovic
+Iraklii Ebralidze
+Lori E. Van Belle
+Nelson Lafreniere
+Cristen Hucaluk
+Kevin Coulter
+Olena Zenkina
+Omer Yukseker
+Brad Easton
+Liliana Trevani
+Fedor Naumkin
+Richard Bartholomew
+David Robertson
+Helene LeBlanc
+Kimberly Nugent
+Sean G. Forrester
+Yuri Bolshan
+John W. Easton
+Sylvie Bardin
+Sarah E. MacKay
+Neil Warner
+Ruth Simpson
+Lavern Bourne
+Nancy Bergeron
+Silvana Jacobs
+Mikael Khan
+Mika L. Nonoyama
+Wally Bartfay
+Ronald Bell
+Toba Bryant
+Kimberly Bergeron
+Nick Wattie
+Jillian M. Gumbley
+Meghann Lloyd
+Sarah West
+Nicholas Antony
+Sascha Tuuha
+Andrew Muncaster
+Marianne Cochrane
+June MacDonald-Jenki
+Kadeen N. Briscoe
+Elizabeth Erwin
+Jessica Eckstein
+Leslie L. Graham
+Nicole Ilavsky
+Treva Job
+Kathy Cummings
+Elaine Salmers
+Sandra Mairs
+Fabiola Longo
+Gail Lindsay
+Crystal Jardine
+Dorothea L. Service
+Jennifer M. Abbass D
+Jacqueline Limoges
+Victoria L. Smye
+Karen Campbell
+Mary Kate Garrity
+Wendy Stanyon
+Kim Jagos
+Mariana Markovic
+Sara Lankshear
+Sue Coffey
+Efrosini A. Papacons
+Hilde Zitzelsberger
+Kelly Kay
+Laura Boyko
+Steven Lester
+Sandra McKay
+Robert Weaver
+Holly Taggart
+Krystie Robinson-Vin
+Obidimma Ezezika
+Pierre Cote
+Hilary Brown
+Michael Mueller
+Shannon Vettor
+Joseph Eastwood
+Karla Emeno
+Kimberley A. Clow
+Leigh Harkins
+Matthew Shane
+Miles Bowman
+Timothy Macneill
+Phillip Shon
+Judith A. Grant
+Maurice Tomlinson
+Ashkan Alavi
+Thomas McMorrow
+Sasha Baglay
+Natalie Oman
+Anthony Anirud
+Salman Rana
+Ronald Hinch
+Steven Downing
+Salinda Horgan
+Tyler Frederick
+Michael Perkins
+Seyun Maria Jung
+Treisha Hylton
+Tara Atluri
+Wesley Crichlow
+Thomas Decker
+Charles Ewert
+Robyn Jacobson
+Roberta Buiani
+Teresa Pierce
+Aziz Douai
+Carla Cesaroni
+Natalie Chinsam
+Sharon Lauricella
+Susan M. Scott
+Jenna Jacobson
+Rob Halpin
+Amir Farmanesh
+Graham D. Wight
+Liza A. Arnason
+Cara Southwood
+Leslie Nichols
+Scott M. Aquanno
+Shanti Fernando
+Simon Granovsky-Lars
+Trevor W. Preston
+Mark W. Green
+Christopher M. Colli
